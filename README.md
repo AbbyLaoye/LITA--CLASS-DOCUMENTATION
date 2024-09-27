@@ -2,6 +2,18 @@
 
 ### PROJECT TITLE: E COMMERCE SALES ANALYSIS 
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations 
+
+[Data Analysis](#data-analysis)
+
+DATA VITUALIZATION
+
 ### Project Overview
 ---
 hjjiljjhyfghjjjkkloo;;lkkkkkhhhggghjjkllollllllljjhggghjjkklllokijjhhjkknjkkkkkkkkkkkkkkkkkkkk
@@ -47,5 +59,10 @@ WHERE CONDITION = TRUE
 [LITA EXCEL -PIVOT .xlsx](https://github.com/user-attachments/files/17168998/LITA.EXCEL.-PIVOT.xlsx)
 
 
+- 🥉
+- 🥹
 
-
+  
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|TABLE 1|TABLE 2|TABLE 3|
