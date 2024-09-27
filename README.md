@@ -40,3 +40,12 @@ This is where we include some basic line of code or queries
 Select * from TABLE1
 WHERE CONDITION = TRUE
 ```
+
+
+### DATA VITUALIZATION
+----
+[LITA EXCEL -PIVOT .xlsx](https://github.com/user-attachments/files/17168998/LITA.EXCEL.-PIVOT.xlsx)
+
+
+
+
