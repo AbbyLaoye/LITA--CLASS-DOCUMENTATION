@@ -1,2 +1,14 @@
 # LITA--CLASS-DOCUMENTATION
-This is where I want to put the pivot project for LITA 
+
+### PROJECT TITLE: E COMMERCE SALES ANALYSIS 
+
+### Project Overview
+hjjiljjhyfghjjjkkloo;;lkkkkkhhhggghjjkllollllllljjhggghjjkklllokijjhhjkknjkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkhhhhhhhhhhgfffffffffffffffffffffffdddddddddddddgggggggggggggggggggggjjjjggggggggggggfff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffhhhhhhhhh
+
+### Data Sources
+fjhkhlklj;jn'm;m[hjhjjlkjj;k;lkoioikljhklll;lk;k;lkklkl;lkjbhhjkj;lkklmnklllklklkjhbhbbgjllj
+hffhgjkjkhiujlljlkkhjkgcfdssrtytyuiyiuiuouhgdrdrtfgyghkjkjliuoiutybgmgvcxxsdcvbnjjllligfhrrtr
+l''uyhljkjk;lll;'poopoioiyuitrerthhb,,,,,,,,';'pi'ueeeetyuuuuuuuuuuuuuuuioooooooo;p[ifhjjj
